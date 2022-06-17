@@ -1,0 +1,18 @@
+.footer {
+  /* display: flex;
+  justify-content: space-between; */
+
+  display: block;
+  /* flex-direction:; */
+  justify-content: space-around;
+  background-color: rgba(126, 126, 189, 0.937);
+  height: 100px;
+}
+.footer_start {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.img {
+  margin-left: 30px;
+}

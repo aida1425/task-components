@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  /* justify-content: space-around;
+  align-items: center; */
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.h1 {
+  margin-left: 100px;
+  margin-right: 200px;
+}
+.btn {
+  margin-right: 50px;
+}
